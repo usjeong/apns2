@@ -1,8 +1,8 @@
 package main
 
 import (
-	"log"
 	"fmt"
+	"log"
 
 	"github.com/sideshow/apns2"
 	"github.com/sideshow/apns2/certificate"
