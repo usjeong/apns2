@@ -4,8 +4,8 @@ import (
 	"fmt"
 	"log"
 
-	apns "github.com/findcoo/apns2"
-	"github.com/findcoo/apns2/token"
+	apns "github.com/usjeong/apns2"
+	"github.com/usjeong/apns2/token"
 )
 
 func main() {

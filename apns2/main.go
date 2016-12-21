@@ -7,8 +7,8 @@ import (
 	"os"
 	"strings"
 
-	"github.com/findcoo/apns2"
-	"github.com/findcoo/apns2/certificate"
+	"github.com/usjeong/apns2"
+	"github.com/usjeong/apns2/certificate"
 	"gopkg.in/alecthomas/kingpin.v2"
 )
 
