@@ -13,7 +13,7 @@ import (
 	"net/http"
 	"time"
 
-	"github.com/sideshow/apns2/token"
+	"github.com/findcoo/apns2/token"
 	"golang.org/x/net/http2"
 )
 
